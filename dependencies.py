@@ -12,6 +12,7 @@
 #00110001 00111000 
 #########################################
 import pip
+pip.main(['install','lxml'])
 pip.main(['install','bs4'])
 pip.main(['install','requests'])
 pip.main(['install','json'])
